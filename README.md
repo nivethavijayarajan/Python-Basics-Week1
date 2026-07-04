@@ -1,8 +1,4 @@
 # Python-Basics-Week1
-My first Python projects: Calculator , Todo App and Student Management System
-
-# Python Basics - Week 1
-
 This repository contains my first two Python terminal applications built during my first week of learning Python.
 
 ## Projects Included
